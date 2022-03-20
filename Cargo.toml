@@ -2,6 +2,13 @@
 name = "nullterm"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0 OR MIT"
+keywords = ["clear", "cls", "cli", "terminal"]
+homepage = "https://github.com/SirHall/nullterm"
+repository = "https://github.com/SirHall/nullterm"
+documentation = "https://github.com/SirHall/nullterm"
+readme = "README.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
