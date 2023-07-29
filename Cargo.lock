@@ -151,6 +151,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "nullterm"
+version = "0.1.0"
+dependencies = [
+ "clearscreen",
+]
+
+[[package]]
 name = "phf"
 version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -297,13 +304,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-xid",
-]
-
-[[package]]
-name = "term_dev_null"
-version = "0.1.0"
-dependencies = [
- "clearscreen",
 ]
 
 [[package]]
